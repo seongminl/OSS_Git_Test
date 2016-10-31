@@ -3,5 +3,6 @@
 int main()
 {
   printf("2012244036 이성민\n");
+  printf("2012244033 홍지헌\n");
   return 0;
 }
